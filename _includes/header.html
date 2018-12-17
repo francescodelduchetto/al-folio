@@ -5,7 +5,9 @@
     {% if page.layout != "about" %}
     <span class="site-title">
         {% assign name = site.name | split: ' ' %}
-        <strong>{{ name | first }}</strong> {{ name | last }}
+        {% assign first_name = name | first %}
+        {% assign family_name = name | join: " " | remove:first_name %}
+        <strong>{{ first_name }}</strong> {{ family_name }}
     </span>
     {% endif %}
 
@@ -26,7 +28,7 @@
         <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/">about</a>
 
         <!-- Blog -->
-        <a class="page-link" href="{{ '/blog/' | prepend: site.baseurl | prepend: site.url }}">blog</a>
+        <!-- <a class="page-link" href="{{ '/blog/' | prepend: site.baseurl | prepend: site.url }}">blog</a> -->
 
         <!-- Pages -->
         {% for page in site.pages %}

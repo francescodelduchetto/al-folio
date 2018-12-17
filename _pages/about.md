@@ -8,9 +8,9 @@ profile:
   align: right
   image: francesco.jpg
   address: >
-    <p>3123 research room</p>
-    <p>Issac Newton Building</p>
-    <p>Brayford Pool, Lincoln, UK</p>
+    <p>Research Office 3123,</p>
+    <p>Issac Newton Building,</p>
+    <p>Brayford Pool, Lincoln LN6 7TS, UK</p>
 
 news: true
 social: true
@@ -22,8 +22,4 @@ The goal of my research is making robot able to learn from the human feedback an
 
 I am also finding myself spending (and enjoying) a lot of time doing _Robot Software Engineering_ so that our <a href="https://lcas.lincoln.ac.uk/wp/projects/lindsey-a-robot-tour-guide/">tour guide robot</a> can safely and reliably be between humans.
 
-
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before joining the L-CAS, I got a MEng degree in "Artificial Intelligence and Robotics" from Sapienza University of Rome advised by <a href="https://sites.google.com/a/dis.uniroma1.it/iocchi/home">Prof. Luca Iocchi</a> and a BSc in "Computer Science and Engineering" from the University of Bologna advised by <a href="https://www.unibo.it/sitoweb/andrea.roli/en">Prof. Andrea Roli</a>.

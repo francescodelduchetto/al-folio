@@ -1,10 +1,13 @@
 ---
 layout: post
 title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
-inline: false
+date: 2018-10-12 16:11:00-0400
+inline: true
 ---
 
+I presented our article: _Engaging Learners in Dialogue Interactivity Development for Mobile Robots_ [EDUROBOTICS 2018](http://edurobotics2018.edumotiva.eu/).
+
+{% comment %}
 Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 
 ***
@@ -29,3 +32,5 @@ Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxide
 > —Anais Nin
 
 Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+
+{% endcomment %}
