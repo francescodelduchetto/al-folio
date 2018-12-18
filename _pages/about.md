@@ -18,8 +18,8 @@ social: true
 
 I'm a PhD student at the <a href="https://lcas.lincoln.ac.uk/wp/">Lincoln Centre for Autonomous Systems</a> where my principal advisor is <a href="https://www.hanheide.net/">Prof. Marc Hanheide</a>.  
 
-The goal of my research is making robot able to learn from the human feedback and improve their behaviour by acting in the real world. In practise, I am working with _Learning by Demonstration_, _Reinforcement Learning_ and _Gaussian Processes_.
+The goal of my research is to make robots being able to learn from the human feedback and improve their behaviour by acting in the real world. In practise, I am working with _Learning by Demonstration_, _Reinforcement Learning_ and _Gaussian Processes_.
 
 I am also finding myself spending (and enjoying) a lot of time doing _Robot Software Engineering_ so that our <a href="https://lcas.lincoln.ac.uk/wp/projects/lindsey-a-robot-tour-guide/">tour guide robot</a> can safely and reliably be between humans.
 
-Before joining the L-CAS, I got a MEng degree in "Artificial Intelligence and Robotics" from Sapienza University of Rome advised by <a href="https://sites.google.com/a/dis.uniroma1.it/iocchi/home">Prof. Luca Iocchi</a> and a BSc in "Computer Science and Engineering" from the University of Bologna advised by <a href="https://www.unibo.it/sitoweb/andrea.roli/en">Prof. Andrea Roli</a>.
+Before joining the L-CAS, I graduated from Sapienza University of Rome with a MEng in "Artificial Intelligence and Robotics" advised by <a href="https://sites.google.com/a/dis.uniroma1.it/iocchi/home">Prof. Luca Iocchi</a> and from the University of Bologna with a BSc in "Computer Science and Engineering" advised by <a href="https://www.unibo.it/sitoweb/andrea.roli/en">Prof. Andrea Roli</a>.

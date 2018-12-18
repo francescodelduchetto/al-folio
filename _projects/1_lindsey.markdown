@@ -2,7 +2,7 @@
 layout: page
 title: Lindsey
 description: A robot tour guide.
-img: /assets/img/lindsey.png
+img: /assets/img/lindblur.jpg
 ---
 
 The proposed research aims at making autonomous robots learning from the interaction with humans over a long-term deployment of 3 years.
